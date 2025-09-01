@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Final-year **Electronics and Telecommunication Engineering** student (SPPU).  
+- 🎓 **Electronics and Telecommunication Engineering**  (SPPU).  
 - 💻 Passionate about **IoT, Embedded Systems, and Full Stack Web Development**.  
 - 🏆 **AIR 1 Winner - Smart India Hackathon 2023** (Team Leader).  
 - 🌟 Completed **Full Stack Developer Internship** at Gravitech Dreams Pvt. Ltd.  

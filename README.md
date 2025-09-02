@@ -1,111 +1,85 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1500&q=80" alt="banner" width="100%">
-</p>
+# 👋 Hi, I'm Yadnynesh Dhangar  
 
-# 👋 Hi, I’m **Yadnynesh Dhangar**  
-
-🎯 **Electronics & Telecommunication Engineer | Embedded Developer | UI-UX Enthusiast | Designer Mindset**  
-
-📍 Jalgaon, Maharashtra – India  
-📧 [yadnyneshdhangar@mail.com](mailto:yadnyneshdhangar@mail.com) | 📱 +91 96234 73132  
-🔗 [LinkedIn](https://www.linkedin.com/in/yadnynesh-dhangar-24500026a) | 💻 [GitHub](https://github.com/yadnynesh-96)  
+🎓 **Electronics & Telecommunication Engineering Student (2025)**  
+📍 Jalgaon, Maharashtra, India  
+📧 [yadnyneshdhangar@gmail.com](mailto:yadnyneshdhangar@gmail.com)  
+📱 +91 96234 73132  
 
 ---
 
-## 📝 Profile Summary  
+## 🚀 About Me  
+I am a passionate **Electronics & Telecommunication Engineer** with strong fundamentals in **Embedded Systems, IoT, and Hardware Design**.  
+I enjoy working on **PCB design, automation systems, robotics, and full-stack web development**.  
 
-A passionate **Electronics & Telecommunication Engineering** graduate with strong fundamentals in **embedded systems, microcontrollers, and PCB design**.  
-🏆 **AIR 1 Winner – Smart India Hackathon 2023** | 🎯 Curious about **UI-UX, IoT, VLSI, and innovation-driven projects**.  
-Hands-on with **circuit prototyping, IoT integration, and control systems**, and eager to grow as a **hardware/software designer** in a dynamic team.  
-
----
-
-## 🛠️ Technical Skills  
-
-**Programming Languages:**  
-`C` `C++` `Python` `Core Java` `HTML` `CSS`  
-
-**Tools & Platforms:**  
-`Arduino IDE` `MATLAB` `Keil uV` `Postman` `GitHub` `Adobe Photoshop` `Illustrator`  
-
-**PCB Tools:**  
-`EasyEDA` `Multisim` (Simulation, Layout & Routing)  
-
-**Domains:**  
-`IoT` `Embedded Systems` `AI` `Microcontrollers (Arduino, 8051, Raspberry Pi)` `Control Systems`  
+🏆 **Smart India Hackathon 2023 (AIR 1 Winner)**  
+💻 Experienced in **C, C++, Java, Python, Arduino, and Web Technologies**  
+🔧 Hands-on with **PCB Design (KiCAD, EasyEDA, Altium Designer basics)**  
 
 ---
 
-## 🌟 Soft Skills  
+## 🛠️ Skills  
 
-💡 Problem Solving | 🔗 Collaboration | 🎤 Communication | 🎯 Adaptability | 🎨 Design Thinking | 🚀 Startup-Oriented Mindset  
+### 💻 Programming & Web Development  
+- C, C++, Java, Python  
+- HTML5, CSS3, JavaScript, React.js  
+- SQL, MongoDB  
+
+### ⚙️ Tools & Platforms  
+- Arduino IDE, MATLAB, Keil uV  
+- Git, VS Code, AWS, Postman  
+- Photoshop, Illustrator  
+
+### 📡 Electronics & PCB  
+- Schematic Capture, PCB Stack-up, Routing  
+- EasyEDA, KiCAD, Altium Designer (basic)  
+- IPC Standards: IPC-2221A, IPC-7351, IPC-SM-782  
 
 ---
 
-## 🎓 Education  
-
-- **B.E. – Electronics & Telecommunication Engineering**  
-  Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar (SPPU)  
-  🎓 Graduated 2025 | CGPA: **7.45/10 (First Class)**  
-
-- **HSC – Maharashtra State Board (2021):** 81%  
-- **SSC – Maharashtra State Board (2019):** 73.20%  
-
----
-
-## 🏆 Certifications & Achievements  
-
-- 🥇 **AIR 1 Winner – Smart India Hackathon 2023**  
-- 🎤 **AICTE IDE Bootcamp (Phase I & II)** – Represented startup idea (Nagpur & Visakhapatnam)  
-- 🚀 Selected for **SPPU Startup Olympiad 2025** (Centre for Innovation, Incubation & Entrepreneurship)  
-- 📜 Certificate of Internship – TechnoGrowth Software Solutions Pvt. Ltd.  
+## 🎯 Achievements & Certifications  
+- 🥇 **AIR 1 Winner** – Smart India Hackathon 2023  
+- 🎓 AICTE IDE Bootcamp Phase I & II  
+- 📜 Cybersecurity & Ethical Hacking Awareness Program (AICTE, 2024)  
+- 💼 Internship at **TechnoGrowth Software Solutions Pvt. Ltd.**  
 
 ---
 
 ## 💼 Internship Experience  
-
-**Project Manager Intern** – *Flares Solar Energy LLP* (Jan 2025)  
-- Coordinated on-site activities for solar energy installations.  
-- Gained real-time exposure to project handling & team coordination.  
-
-**Full Stack Developer Intern** – *TechnoGrowth Software Solutions Pvt. Ltd.* (Dec 2023 – Jan 2024)  
-- Developed a **College Portal** using Java (Spring Boot) & Angular.  
-- Conducted **API testing** with Postman and integrated backend-frontend services.  
+**Full Stack Developer Intern** | TechnoGrowth Software Solutions Pvt. Ltd.  
+📅 Dec 2023 – Feb 2024  
+- Built a **College Portal** using **Java, Spring Boot, SQL (backend)** and **Angular, HTML/CSS, JS (frontend)**.  
+- Performed API testing with Postman and ensured smooth frontend-backend integration.  
 
 ---
 
-## 📂 Academic Projects  
+## 📚 Projects  
 
-- 🤖 **Line Following Robot** (2024)  
-  Arduino Mega + IR Sensors + L293D | Implemented **PID Control** & PCB design with EasyEDA.  
+### 🔹 Java-based ATM Management System  
+- Developed a secure ATM system using **Java** with deposit, withdrawal & authentication.  
+- [🔗 GitHub Repository](#)  
 
-- 🧑‍🎓 **Alumni Management Portal** (2025)  
-  Team Project | Backend: Python Django | Frontend: HTML/CSS/JS | Role: **Frontend developer & UI/UX contributor**.  
+### 🔹 Alumni Management Portal  
+- Built a **web-based alumni portal** with **Python Django + HTML/CSS/JS**.  
+- Added features for banking-style transactions and authentication.  
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadnynesh-96&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadnynesh-96&layout=compact&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadnynesh-96&theme=radical" height="160"/>
-</p>  
+### 🔹 Line Following Robot  
+- Designed an **Arduino-Mega based robot** with IR sensors, L293D motor driver.  
+- Implemented **PID control** for precise navigation.  
+- [🔗 GitHub Repository](#)  
 
 ---
 
-## 📫 Let’s Connect  
-
-<p align="center">
-  <a href="mailto:yadnyneshdhangar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yadnynesh-dhangar-24500026a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/yadnynesh-96"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+## 🌱 Currently Exploring  
+- PCB Advanced Design Concepts  
+- Robotics & Automation  
+- Cloud-based IoT Integrations  
 
 ---
 
-⭐ *“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs*  
+## 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/your-username)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox)](#)  
+
+---
+⭐️ From [Yadnynesh Dhangar](https://github.com/your-username)  

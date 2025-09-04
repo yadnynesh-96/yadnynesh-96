@@ -2,8 +2,8 @@
 
 🎓 **Electronics & Telecommunication Engineering Student (2025)**  
 📍 Jalgaon, Maharashtra, India  
-📧 [yadnyneshdhangar@gmail.com](mailto:yadnyneshdhangar@gmail.com)  
-📱 +91 96234 73132  
+📧 [yadnyneshdhangar@gmail.com](mailto:yadnyneshdhangar@gmail.com) 📱 +91 96234 73132   
+
 
 ---
 

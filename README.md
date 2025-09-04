@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yadnynesh Dhangar  
+# 👋 Hello , I'm Yadnyesh Dhangar  
 
 🎓 **Electronics & Telecommunication Engineering Student (2025)**  
 📍 Jalgaon, Maharashtra, India  
@@ -7,22 +7,18 @@
 
 ---
 
-## 🚀 About Me  
-I am a passionate **Electronics & Telecommunication Engineer** with strong fundamentals in **Embedded Systems, IoT, and Hardware Design**.  
-I enjoy working on **PCB design, automation systems, robotics, and full-stack web development**.  
-
-🏆 **Smart India Hackathon 2023 (AIR 1 Winner)**  
-💻 Experienced in **C, C++, Java, Python, Arduino, and Web Technologies**  
-🔧 Hands-on with **PCB Design (KiCAD, EasyEDA, Altium Designer basics)**  
+## 🚀PROFILE SUMMARY  
+An Electronics & Telecommunication Engineering graduate (First Class, CGPA: 7.45/10) with strong fundamentals in software development and embedded systems, microcontrollers, PCB design. (robotics, circuit design, IoT applications) and software/web development (UI/UX design, backend integration, full stack projects). Winner of Smart India Hackathon 2023 (AIR 1) with a passion for building innovative, reliable, and scalable solutions in both electronics hardware and software domains.  
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ TECHNICAL SKILLS  
 
 ### 💻 Programming & Web Development  
-- C, C++, Java, Python  
+- C, C++, Java,[![python]
 - HTML5, CSS3, JavaScript, React.js  
 - SQL, MongoDB  
+Core Java, Python, C, C++, HTML, CSS, JavaScript, Django, Spring Boot (academic exposure), GitHub, Postman
 
 ### ⚙️ Tools & Platforms  
 - Arduino IDE, MATLAB, Keil uV  

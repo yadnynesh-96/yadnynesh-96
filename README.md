@@ -84,4 +84,11 @@
 
 ---
 
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
 ⭐️ From [Yadnynesh Dhangar](https://github.com/your-username)

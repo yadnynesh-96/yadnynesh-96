@@ -1,110 +1,81 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Yadnynesh Dhangar</h1>
-<h3 align="center">🚀 Electronics & Telecommunication Engineer | Embedded Systems | IoT | Full Stack Developer</h3>
+<!-- Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=600&lines=Hi+👋,+I'm+Yadnynesh+Dhangar;Electronics+%26+Telecommunication+Engineer;Embedded+Systems+%7C+IoT+%7C+PCB+Design;Full+Stack+Developer+%7C+Tech+Explorer" alt="Typing SVG" />
+</h1>
 
 ---
 
-## 🌟 Profile Summary
-An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.45/10)** with strong fundamentals in **embedded systems, PCB design, IoT applications, and software development**.  
-
-💡 Experienced in **hardware projects** (Robotics, Circuit Design, IoT) and **software/web development** (UI/UX, backend integration, full-stack projects).  
-🏆 **Winner of Smart India Hackathon 2023 (AIR 1)**.  
-⚡ Passionate about building **innovative, reliable, and scalable solutions** in both electronics and software domains.  
+## 🌟 About Me
+🎓 **Electronics & Telecommunication Engineer (SPPU, 2025, First Class CGPA: 7.45/10)**  
+💡 Skilled in **Embedded Systems, PCB Design, IoT, and Full Stack Development**  
+🏆 **Smart India Hackathon 2023 AIR-1 Winner**  
+🚀 Exploring **Cloud IoT, Robotics, and PCB Advanced Design**  
+💼 Open to **collaborations, research, and startup opportunities**  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Technical Toolbox  
 
 **💻 Programming & Software:**  
-`Core Java` `Python` `C` `C++` `HTML` `CSS` `JavaScript` `Django` `Spring Boot` `GitHub` `Postman`  
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge&logo=spring&logoColor=white)  
 
 **⚡ Electronics & Hardware Tools:**  
-`Arduino IDE` `Keil uVision` `Flash Magic` `MATLAB (Basic)` `EasyEDA` `Multisim (Basic)`  
+`Arduino IDE` | `MATLAB` | `Keil uVision` | `EasyEDA` | `Multisim` | `Flash Magic`  
 
-**🔬 Electronics Concepts:**  
-`Circuit Design` `PCB Schematic Capture` `Component Placement` `Signals & Systems` `Troubleshooting`  
-
-**📡 Domains of Interest:**  
-`Embedded Systems` `IoT` `Microcontrollers (Arduino, 8051)` `Raspberry Pi (Model 3)` `Control Systems`  
-
-**🎨 Other Tools:**  
-`Adobe Photoshop` `Adobe Illustrator`  
+**📡 Domains:**  
+`Embedded Systems` | `IoT` | `Microcontrollers (Arduino, 8051)` | `Raspberry Pi` | `Control Systems`  
 
 ---
 
-## 🤝 Soft Skills  
-✔️ Problem-Solving & Logical Thinking  
-✔️ Teamwork & Collaboration  
-✔️ Adaptability & Resilience  
-✔️ Communication & Presentation  
-✔️ Startup-Oriented & Self-Motivated  
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
-## 🎓 Education  
-- **B.E. Electronics & Telecommunication** – Dr. Vitthalrao Vikhe Patil College of Engineering, Ahmednagar (SPPU) | 2025 | **CGPA: 7.45 / 10**  
-- **HSC** – Maharashtra State Board, 2021 | **81.00%**  
-- **SSC** – Maharashtra State Board, 2019 | **73.20%**  
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&margin-w=10&row=1&column=6" alt="Trophies" />
+</p>
 
 ---
 
-## 🏆 Achievements & Certifications  
+## 🚀 Featured Projects  
+
+🔹 **Line Following Robot** – Arduino Mega, IR Sensors, PID Control, PCB on EasyEDA  
+🔹 **Alumni Management Portal** – Django + HTML/CSS/JS  
+🔹 **ATM Management System** – Core Java Simulation  
+🔹 **College Portal (Internship)** – Java Spring Boot + Angular + SQL  
+
+---
+
+## 🎯 Achievements  
+
 - 🥇 **Winner – Smart India Hackathon 2023 (AIR 1)**  
-- 🚀 Selected for **SPPU Startup Olympiad 2025** (Centre for Innovation, Incubation & Entrepreneurship)  
-- 🎓 **AICTE IDE Bootcamp Phase I & II** – Represented startup idea (Nagpur & Visakhapatnam)  
-- 📜 **Cybersecurity & Ethical Hacking Awareness Program** (AICTE, 2024)  
-
----
-
-## 💼 Internship Experience  
-
-**Full Stack Developer Intern** | *TechnoGrowth Software Solutions Pvt. Ltd.*  
-📅 Dec 2023 – Jan 2024  
-- Built a **College Portal** using **Java Spring Boot + SQL backend** and **Angular + HTML/CSS/JS frontend**.  
-- Performed API testing with Postman and integrated services.  
-
-**Project Manager Intern** | *Flares Solar Energy LLP*  
-📅 Jan 2024 – Feb 2024  
-- Coordinated on-site activities for **solar energy installations**.  
-- Gained exposure to **real-time project handling & team management**.  
-
----
-
-## 📚 Academic Projects  
-
-🔹 **Line Following Robot** (Jan 2024 – May 2024)  
-- Arduino Mega + IR Sensors + L293D Motor Driver  
-- Implemented **PID control** for accuracy  
-- Designed PCB layout using **EasyEDA**  
-
-🔹 **Alumni Management Portal** (May 2025)  
-- Web-based alumni management system  
-- **UI/UX frontend**: HTML, CSS, JS  
-- **Backend**: Python Django (team contribution)  
-
-🔹 **ATM Management System (Academic)**  
-- Java-based project simulating deposit, withdrawal, authentication  
-
----
-
-## 📊 GitHub Stats & Graphs  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical" alt="GitHub Activity Graph" />
-</p>
+- 🚀 **SPPU Startup Olympiad 2025** (Innovation, Incubation & Entrepreneurship)  
+- 🎓 **AICTE IDE Bootcamp Phase I & II** (Nagpur & Vizag)  
+- 📜 **Cybersecurity & Ethical Hacking Awareness Program**  
 
 ---
 
 ## 📫 Connect With Me  
+
 <p align="center">
   <a href="mailto:yadnyneshdhangar@mail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>

@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <!-- Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=600&lines=Hi+👋,+I'm+Yadnynesh+Dhangar;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=600&lines=Hello+🙋,+I'm+Yadnynesh+Dhangar;" alt="Typing SVG" />
 </h1>
 
 ---

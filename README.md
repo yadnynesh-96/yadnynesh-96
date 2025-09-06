@@ -92,7 +92,7 @@ An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.
 
 ## 📫 Connect With Me  
 <p align="center">
-  <a href="mailto:yadnyneshdhangar@mail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:yadnyneshdhangar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/yadnynesh-dhangar-24500026a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/yadnynesh-96"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>

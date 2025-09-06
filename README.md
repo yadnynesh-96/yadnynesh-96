@@ -15,7 +15,7 @@ An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Technical Skills  ⤵
 
 **💻 Programming & Software:**  
 `Core Java` `Python` `C` `C++` `HTML` `CSS` `JavaScript` `Django` `Spring Boot` `GitHub` `Postman`  
@@ -35,7 +35,7 @@ An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.
 ---
 
 ## 🤝 Soft Skills  
-✔️ Problem-Solving & Logical Thinking  
+ Problem-Solving & Logical Thinking  
 ✔️ Teamwork & Collaboration  
 ✔️ Adaptability & Resilience  
 ✔️ Communication & Presentation  
@@ -93,10 +93,10 @@ An **Electronics & Telecommunication Engineering Graduate (First Class, CGPA: 7.
 ## 📫 Connect With Me  
 <p align="center">
   <a href="mailto:yadnyneshdhangar@mail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yadnynesh-dhangar-24500026a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/yadnynesh-96"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-⭐️ From [Yadnynesh Dhangar](https://github.com/your-username)
+⭐️ From [Yadnynesh Dhangar](https://github.com/yadnynesh-96)
